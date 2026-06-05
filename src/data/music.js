@@ -13,11 +13,10 @@
 
 export const music = {
   // Ruta al archivo de audio (relativa a /public). Vacio = sin musica.
-  src: '',
+  src: '/music/nuestra-cancion.mp3',
 
   // Titulo que se muestra junto al reproductor
-  title: 'Nuestra cancion',
-  artist: '',
+  title: 'Te amo',
 
   // Volumen inicial (0 a 1)
   volume: 0.5,
