@@ -17,7 +17,7 @@ export const storyMoments = [
     title: 'Cuando te conoci',
     description:
       'No sabia que ese dia cambiaria mi vida para siempre. Una sonrisa fue suficiente para que todo tuviera sentido.',
-    photo: placeholder({ seed: 0, label: 'El comienzo', emoji: '✨' }),
+    photo: '/photos/01.webp',
   },
   {
     id: 'm2',
@@ -25,7 +25,7 @@ export const storyMoments = [
     title: 'Las primeras horas',
     description:
       'Hablamos durante horas y el tiempo desaparecio. Supe que queria muchos dias mas como ese, contigo.',
-    photo: placeholder({ seed: 1, label: 'Primera cita', emoji: '☕' }),
+    photo: '/photos/02.webp',
   },
   {
     id: 'm3',
@@ -33,7 +33,7 @@ export const storyMoments = [
     title: 'Descubriendo el mundo juntos',
     description:
       'Cada lugar nuevo se volvio nuestro. Aprendi que mi sitio favorito siempre es donde estas tu.',
-    photo: placeholder({ seed: 2, label: 'Primer viaje', emoji: '✈' }),
+    photo: '/photos/03.webp',
   },
   {
     id: 'm4',
@@ -41,7 +41,7 @@ export const storyMoments = [
     title: 'Lo cotidiano contigo',
     description:
       'Descubri que la felicidad tambien vive en lo simple: cocinar, reir, abrazarnos sin razon.',
-    photo: placeholder({ seed: 3, label: 'Lo cotidiano', emoji: '🏡' }),
+    photo: '/photos/04.webp',
   },
   {
     id: 'm5',
@@ -49,7 +49,7 @@ export const storyMoments = [
     title: 'Y aqui seguimos',
     description:
       'Cada dia te elijo de nuevo. Gracias por tanto. Este es solo el comienzo de todo lo que viene.',
-    photo: placeholder({ seed: 4, label: 'Hoy', emoji: '💞' }),
+    photo: '/photos/05.webp',
   },
 ];
 

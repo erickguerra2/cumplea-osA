@@ -19,7 +19,7 @@ export const constellationMemories = [
     title: 'El primer mensaje',
     date: 'Donde todo empezo',
     description: 'Un simple "hola" que se convirtio en mi conversacion favorita.',
-    photo: placeholder({ seed: 0, label: 'Primer mensaje', emoji: '💬', w: 600, h: 600 }),
+    photo: "/photos/13.webp",
     connectTo: 'c2',
   },
   {
@@ -30,7 +30,7 @@ export const constellationMemories = [
     title: 'La primera risa',
     date: 'Inolvidable',
     description: 'Me hiciste reir como nunca. Ahi supe que eras especial.',
-    photo: placeholder({ seed: 1, label: 'Primera risa', emoji: '😂', w: 600, h: 600 }),
+    photo: "/photos/14.webp",
     connectTo: 'c3',
   },
   {
@@ -41,7 +41,7 @@ export const constellationMemories = [
     title: 'Te dije lo que sentia',
     date: 'El gran salto',
     description: 'El corazon me latia fuerte. Valio cada segundo.',
-    photo: placeholder({ seed: 2, label: 'Lo que siento', emoji: '❤', w: 600, h: 600 }),
+    photo: "/photos/15.webp",
     connectTo: 'c4',
   },
   {
@@ -52,7 +52,7 @@ export const constellationMemories = [
     title: 'Nuestra cancion',
     date: 'Suena y pienso en ti',
     description: 'Cada vez que la escucho, vuelvo a ese momento contigo.',
-    photo: placeholder({ seed: 3, label: 'Nuestra cancion', emoji: '🎵', w: 600, h: 600 }),
+    photo: "/photos/16.webp",
     connectTo: 'c5',
   },
   {
@@ -63,7 +63,7 @@ export const constellationMemories = [
     title: 'Hoy y siempre',
     date: 'Por venir',
     description: 'Lo mejor aun esta por escribirse, y quiero hacerlo contigo.',
-    photo: placeholder({ seed: 4, label: 'Hoy y siempre', emoji: '🌟', w: 600, h: 600 }),
+    photo: "/photos/17.webp",
     connectTo: null,
   },
 ];

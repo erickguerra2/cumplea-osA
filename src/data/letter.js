@@ -7,15 +7,15 @@
  */
 
 export const letter = {
-  greeting: 'Mi amor,',
+  greeting: 'Feliz cumpleaños, amorcito.',
   paragraphs: [
-    'Feliz cumpleanos. Hoy quiero recordarte lo afortunado que soy de tenerte en mi vida.',
-    'Desde que llegaste, todo brilla distinto. Me ensenaste que el amor de verdad esta en los detalles, en las risas tontas y en los silencios comodos.',
-    'Gracias por tu paciencia, por tu ternura y por elegirme cada dia. Prometo seguir construyendo recuerdos contigo, uno a uno, sin prisa.',
-    'Que este nuevo ano de vida te traiga todo lo que sonas. Yo estare aqui, a tu lado, celebrandote siempre.',
+    'Eres lo mejor que me ha pasado en esta vida. Le doy gracias a Dios por tus 22 añitos y le pido que me deje vivir mil cumpleaños más a tu lado. Eres una niña increíble, fuerte, amable, trabajadora y simplemente perfecta eh. Gracias por ser como eres y por ser tan especial. Te amo demasiado y siempre lo haré.',
+    'Quiero estar a tu lado por miles de años más celebrando tu vida porque... ¡ijijijiji, qué emoción, ya es tu cumple! 22 ya estás vieja eh. Y yo 21, JAJA. Te amo, amorcito.',
+    'Espero que te la pases súper bien yendo a desayunar conmigo, que disfrutes muchísimo tu cumple y ya te voy a poder dar tus regalitos, ijijiji. Te amooo hoy, mañana y siempre lo haré eh.',
+    'Y sé que ya lo dije, pero es que de verdad eres una niña increíble; amo todo de ti y lo amaré toda la vida.'
   ],
-  signature: 'Con todo mi amor,',
-  signatureName: 'Tu persona favorita',
+  signature: '¡FELIZ CUMPLEEEE,',
+  signatureName: 'mi princesita hermosa!'
 };
 
 export default letter;
