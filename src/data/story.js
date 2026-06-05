@@ -17,7 +17,7 @@ export const storyMoments = [
     title: 'Cuando te conoci',
     description:
       'No sabia que ese dia cambiaria mi vida para siempre. Una sonrisa fue suficiente para que todo tuviera sentido.',
-    photo: '/photos/01.webp',
+    photo: '/photos/1.webp',
   },
   {
     id: 'm2',
@@ -25,7 +25,7 @@ export const storyMoments = [
     title: 'Las primeras horas',
     description:
       'Hablamos durante horas y el tiempo desaparecio. Supe que queria muchos dias mas como ese, contigo.',
-    photo: '/photos/02.webp',
+    photo: '/photos/2.webp',
   },
   {
     id: 'm3',
@@ -33,7 +33,7 @@ export const storyMoments = [
     title: 'Descubriendo el mundo juntos',
     description:
       'Cada lugar nuevo se volvio nuestro. Aprendi que mi sitio favorito siempre es donde estas tu.',
-    photo: '/photos/03.webp',
+    photo: '/photos/3.webp',
   },
   {
     id: 'm4',
@@ -41,7 +41,7 @@ export const storyMoments = [
     title: 'Lo cotidiano contigo',
     description:
       'Descubri que la felicidad tambien vive en lo simple: cocinar, reir, abrazarnos sin razon.',
-    photo: '/photos/04.webp',
+    photo: '/photos/4.webp',
   },
   {
     id: 'm5',
@@ -49,7 +49,7 @@ export const storyMoments = [
     title: 'Y aqui seguimos',
     description:
       'Cada dia te elijo de nuevo. Gracias por tanto. Este es solo el comienzo de todo lo que viene.',
-    photo: '/photos/05.webp',
+    photo: '/photos/5.webp',
   },
 ];
 
